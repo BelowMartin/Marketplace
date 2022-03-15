@@ -1,0 +1,194 @@
+[
+    {
+        "name": "MacBoock Pro 14",
+        "category": "Rivers",
+        "city": "U1",
+        "state": "To: Minsk, Belarus",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "From: Washington, USA",
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "description": "   Price: $1999                        Award: $150\n\n            No later than: 12.24.2021",
+        "imageName": "1"
+    },
+    {
+        "name": "Iphone 13 256Gb",
+        "category": "Lakes",
+        "city": "U1",
+        "state": "To: Minsk, Belarus",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "From: Moscow, Russia",
+        "coordinates": {
+            "longitude": -152.665167,
+            "latitude": 59.980167
+        },
+        "description": "   Price: $899                         Award: $20\n\n              No later than: 01.11.2022",
+        "imageName": "2"
+    },
+    {
+        "name": "Sony WH-1000XM4",
+        "category": "Mountains",
+        "city": "U2",
+        "state": "To: Wrozlaw, Poland",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "From: Berlin, Germany",
+        "coordinates": {
+            "longitude": -135.334571,
+            "latitude": 59.560551
+        },
+        "description": "   Price: $490                         Award: $15\n\n              No later than: 02.12.2022",
+        "imageName": "3"
+    },
+    {
+        "name": "Gingerbread cookies",
+        "category": "Lakes",
+        "city": "U1",
+        "state": "To: Moscow, Russia",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "From: Cologne, Germany",
+        "coordinates": {
+            "longitude": -113.536248,
+            "latitude": 48.69423
+        },
+        "description": "   Price: $20                           Award: $10\n\n              No later than: 12.23.2021",
+        "imageName": "4"
+    },
+    {
+        "name": "Snowshoes",
+        "category": "Lakes",
+        "city": "U1",
+        "state": "To: Novokuznetsk, Russia",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "From: Talinn, Estonia",
+        "coordinates": {
+            "longitude": -153.849883,
+            "latitude": 60.641684
+        },
+        "description": "   Price: $120                          Award: $25\n\n              No later than: 12.24.2021.",
+        "imageName": "5"
+    },
+    {
+        "name": "Surstremming",
+        "category": "Mountains",
+        "city": "U1",
+        "state": "To: Minsk, Belarus",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "From: Stockholm, Sweden",
+        "coordinates": {
+            "longitude": -113.934831,
+            "latitude": 48.56002
+        },
+        "description": "   Price: $13                           Award: $10\n\n               No later than: 12.20.2021",
+        "imageName": "6"
+    },
+    {
+        "name": "JBL Xtreme",
+        "category": "Rivers",
+        "city": "U2",
+        "state": "To: Brest, Belarus",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "From: Beijing, Сhina",
+        "coordinates": {
+            "longitude": -143.122586,
+            "latitude": 65.350021
+        },
+        "description": "   Price: $350                          Award: $30\n\n              No later than: 01.28.2022",
+        "imageName": "7"
+    },
+    {
+        "name": "Сopy of the Gioconda",
+        "category": "Mountains",
+        "city": "U2",
+        "state": "To: London,TGB",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "From: Paris, France",
+        "coordinates": {
+            "longitude": -141.518167,
+            "latitude": 60.089917
+        },
+        "description": "   Price: $400                         Award: $50\n\n              No later than: 01.06.2022",
+        "imageName": "8"
+    },
+    {
+        "name": "Xiaomi Redmi 4Pro ",
+        "category": "U1",
+        "city": "U1",
+        "state": "To: Moskow, Russia",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "From: Beijing, Сhina",
+        "coordinates": {
+            "longitude": -150.086103,
+            "latitude": 61.694334
+        },
+        "description": "   Price: $200                        Award: $30\n\n              No later than: 01.02.2022",
+        "imageName": "9"
+    },
+    {
+        "name": "Cabernet franc 2003",
+        "category": "Lakes",
+        "city": "U2",
+        "state": "To: Minsk, Belarus",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "From: Paris, Franse",
+        "coordinates": {
+            "longitude": -121.17799,
+            "latitude": 48.495442
+        },
+        "description": "   Price: $250                        Award: $40\n\n              No later than: 12.31.2021",
+        "imageName": "10"
+    },
+    {
+        "name": "Manga 'Attack of the Titans' all volumes",
+        "category": "Rivers",
+        "city": "U1",
+        "state": "To: Minsk, Belarus",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "From: Tokio, Japan",
+        "coordinates": {
+            "longitude": -75.383212,
+            "latitude": 37.91531
+        },
+        "description": "   Price: $89                        Award: $20\n\n              No later than: 01.03.2022",
+        "imageName": "11"
+    },
+    {
+        "name": "Nintendo Switch",
+        "category": "Lakes",
+        "city": "U2",
+        "state": "To: Vilnus, Lithuania",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "From: Detroit, USA",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "description": "   Price: $500                        Award: $25\n\n              No later than: 01.01.2022",
+        "imageName": "12"
+    }
+]
